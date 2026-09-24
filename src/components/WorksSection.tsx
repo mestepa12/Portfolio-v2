@@ -14,7 +14,7 @@ const spanClasses: Record<number, string> = {
 const projects = [
   {
     title: 'Rincón de Lectura',
-    desc: 'App de lectura en producción con 40 usuarias reales. Firebase Auth, Firestore con reglas de seguridad propias y Cloud Functions para notificaciones y rachas. Búsqueda en Google Books con OpenLibrary de respaldo, importación del CSV de Goodreads y app Android con Capacitor.',
+    desc: 'App de lectura en producción con 72 usuarias activas. Firebase Auth, Firestore con reglas de seguridad propias y Cloud Functions para notificaciones y rachas. Búsqueda en Google Books con OpenLibrary de respaldo, importación del CSV de Goodreads y app Android con Capacitor.',
     tech: ['JavaScript', 'Firebase', 'Cloud Functions', 'Capacitor'],
     href: 'https://rinconlectura.es/',
     gradient: 'from-indigo-900/40 to-purple-900/40',
