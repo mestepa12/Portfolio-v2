@@ -2,7 +2,7 @@ import { motion } from 'framer-motion';
 
 const stats = [
   { value: '3+', label: 'Proyectos Completados' },
-  { value: '8', label: 'Tecnologías Dominadas' },
+  { value: '12', label: 'Tecnologías' },
   { value: '100%', label: 'Dedicación' },
 ];
 
